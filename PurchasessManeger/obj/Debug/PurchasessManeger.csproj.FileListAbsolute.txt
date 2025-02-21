@@ -1,0 +1,9 @@
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\obj\Debug\PurchasessManeger.csproj.AssemblyReference.cache
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\obj\Debug\PurchasessManeger.Properties.Resources.resources
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\obj\Debug\PurchasessManeger.csproj.GenerateResource.cache
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\obj\Debug\PurchasessManeger.csproj.CoreCompileInputs.cache
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\bin\Debug\PurchasessManeger.exe.config
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\bin\Debug\PurchasessManeger.exe
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\bin\Debug\PurchasessManeger.pdb
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\obj\Debug\PurchasessManeger.exe
+C:\Users\329191-23\Desktop\lab_1\lab1_testing\PurchasessManeger\obj\Debug\PurchasessManeger.pdb
