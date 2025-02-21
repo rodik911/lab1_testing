@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\329191-23\\Desktop\\lab_1\\lab1_testing\\PurchaseManeger\\",
+  "WorkspaceRootPath": "C:\\Users\\329191-23\\Desktop\\lab_1\\lab1_testing\\PurchasessManeger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EB84286-34F9-4A48-BE09-D605FFF8F69F}|PurchaseManeger.csproj|c:\\users\\329191-23\\desktop\\lab_1\\lab1_testing\\purchasemaneger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4EB84286-34F9-4A48-BE09-D605FFF8F69F}|PurchaseManeger.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6137C4B8-F072-46ED-9DE6-416B95BEED6E}|PurchasessManeger.csproj|c:\\users\\329191-23\\desktop\\lab_1\\lab1_testing\\purchasessmaneger\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6137C4B8-F072-46ED-9DE6-416B95BEED6E}|PurchasessManeger.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,12 +20,12 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_1\\lab1_testing\\PurchaseManeger\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\329191-23\\Desktop\\lab_1\\lab1_testing\\PurchasessManeger\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_1\\lab1_testing\\PurchaseManeger\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\329191-23\\Desktop\\lab_1\\lab1_testing\\PurchasessManeger\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:44:59.535Z",
+              "WhenOpened": "2025-02-21T12:53:05.154Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("PurchaseManeger")]
+[assembly: AssemblyTitle("PurchasessManeger")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PurchaseManeger")]
+[assembly: AssemblyProduct("PurchasessManeger")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("4eb84286-34f9-4a48-be09-d605fff8f69f")]
+[assembly: Guid("6137c4b8-f072-46ed-9de6-416b95beed6e")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4EB84286-34F9-4A48-BE09-D605FFF8F69F}</ProjectGuid>
+    <ProjectGuid>{6137C4B8-F072-46ED-9DE6-416B95BEED6E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PurchaseManeger</RootNamespace>
-    <AssemblyName>PurchaseManeger</AssemblyName>
+    <RootNamespace>PurchasessManeger</RootNamespace>
+    <AssemblyName>PurchasessManeger</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -1,4 +1,4 @@
-﻿namespace PurchaseManeger
+﻿namespace PurchasessManeger
 {
     partial class Form1
     {

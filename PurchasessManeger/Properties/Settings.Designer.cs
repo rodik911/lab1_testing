@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PurchaseManeger.Properties
+namespace PurchasessManeger.Properties
 {
 
 
